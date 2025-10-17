@@ -1,4 +1,4 @@
-# BA780-Project
+# B08-Analysing-Socioeconomic-Correlates-Of-Crime-Incidents-In-Boston
 This project analyzes the correlation between socioeconomic factors and crime incidents in the Boston area.
 
 📘 Executive Summary
