@@ -117,7 +117,9 @@ Writing Assistance: Edited markdown narratives for conciseness and clarity.
 All outputs were reviewed, validated, and adjusted by team members to maintain academic integrity and analytical rigor.
 
 👥 Contributors
-
-Kaixin Gao (Kevin Gao) — Data Cleaning, Geospatial Mapping, SES Analysis
-
-[Add teammates here with respective roles]
+Yuanhao Li
+Anton Falk
+Daksh Raichura
+Kaixin Gao
+Keifei Zhang
+Li Hsin Chang
