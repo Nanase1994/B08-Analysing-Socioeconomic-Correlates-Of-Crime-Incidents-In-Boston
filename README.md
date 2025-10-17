@@ -13,7 +13,7 @@ Daksh Raichura
 
 Kaixin Gao
 
-Keifei Zhang
+Kefei Zhang
 
 Li Hsin Chang
 
